@@ -25,4 +25,7 @@ Why ListenBrainz and not just another Youtube plalist? Because: https://listenbr
 -- 3rd run: more strict parameters set.... RUNNING NOW
 
 
-
+# PROCESS 2: Electric Boogaloo
+- Whilst running the apify scappers above I also tried to export a raw HTML file from Twitter to grab the links out of it
+- Nitter, a privacy preserving frontend of Twitter came in useful as it does not do link shortening
+- Output produced is being parsed and will be added to repo as it's own file.... WIP
