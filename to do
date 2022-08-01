@@ -6,3 +6,8 @@
 - input into ListenBrainz playlist
 - output a raw list of urls for future integration
 - add list to repo
+
+
+Possible tools / scripts
+- https://github.com/taspinar/twitterscraper
+- https://github.com/jdevo23/get-all-the-vids
