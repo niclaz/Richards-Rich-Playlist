@@ -14,6 +14,14 @@ https://listenbrainz.org/playlist/95431805-bdd3-4904-bffe-3506c1a09006/
 Why ListenBrainz and not just another Youtube plalist? [Because of these reasons](https://listenbrainz.org/about)
 
 
+## Youtube playlists made by Richard
+
+https://www.youtube.com/watch?v=ZychufQciUY&list=TLGGE-G7ad6M_MowMTA4MjAyMg
+https://www.youtube.com/watch?v=IN2iuLK1I3s&list=TLGGXGY-0TlzETYwMTA4MjAyMg
+https://www.youtube.com/watch?v=5b3XkCi3jsQ&list=TLGG896wvmgjjUQwMTA4MjAyMg
+https://www.youtube.com/watch?v=eJuclG1q2fQ&list=TLGGLPiVNCJH_8gwMTA4MjAyMg
+
+
 ## Raw output of links
 
 [list of youtube links](https://github.com/niclaz/Richards-Rich-Playlist/blob/main/youtube-links-parsed)
