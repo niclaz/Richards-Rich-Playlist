@@ -14,20 +14,28 @@ Why ListenBrainz and not just another Youtube plalist? Because: https://listenbr
 
 
 
-# PROCESS
+# PROCESS [COMPLETED]
  - Registered for a free account with apify.com
- - Used the vdrmota/twitter-scraper hat/tip to @vdrmota
- -- his repo of the tool: https://github.com/vdrmota/actor-twitter-scraper
-
  - Ran the vdrmota tool (aka Actor) within apify
   * 1st run: output was 50 data points of which many are text comments or t.co shortened links
   * 2nd run: different parameters for script, produced same results as 1st run
   * 3rd run: more strict parameters set.... got a similar result as previous runs, about 45-50 data points and all t.co shortened links
-  * 4th run: switching tool, trying to use: zuzka/twitter-url-scraperRuns within Apify... got similar results to above
-  * 5th run: re-attempting the zuzka tool with a different scraping protocols to see if results change.... RUNNING
+  
+ - Switching tool, trying to use: zuzka/twitter-url-scraperRuns within Apify... got similar results to above
+  * 1st run: re-attempting the zuzka tool with a different scraping protocols to see if results change.... got 169 data points this time.
+  * 2nd run: 
+  * END of Process - used to cross compare with Process 2 and get more text (non-url link) contributions.
 
 
-# PROCESS 2: Electric Boogaloo
+# PROCESS 2: Electric Boogaloo [COMPLETED]
  - Whilst running the apify scappers above I also tried to export a raw HTML file from Twitter to grab the links out of it
  - Nitter, a privacy preserving frontend of Twitter came in useful as it does not do link shortening
- - Output produced is being parsed and will be added to repo as it's own file.... WIP
+ - Output produced is being parsed and will be added to repo as it's own file: 
+
+# Gratitude
+
+Thanking / hat-tip to these devs and services used in this process:
+- @richardb for letting me play with his data and make the playlist
+- @vdrmota for the twitter-scraper 'Actor' within Apify[https://apify.com/vdrmota]
+- @zpelechova for the twitter-url-scraper 'Actor' within Apify[https://apify.com/zuzka
+- @alecsharpie for this Twitter url expander hack: requests.get(https://t.co<adfsd>).url
