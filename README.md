@@ -23,7 +23,8 @@ Why ListenBrainz and not just another Youtube plalist? Because: https://listenbr
 -- 1st run: output was 50 data points of which many are text comments or t.co shortened links
 -- 2nd run: different parameters for script, produced same results as 1st run
 -- 3rd run: more strict parameters set.... got a similar result as previous runs, about 45-50 data points and all t.co shortened links
--- 4th run: switching tool, trying to use: zuzka/twitter-url-scraperRuns within Apify... RUNNING
+-- 4th run: switching tool, trying to use: zuzka/twitter-url-scraperRuns within Apify... got similar results to above
+-- 5th run: re-attempting the zuzka tool with a different scraping protocols to see if results change.... RUNNING
 
 
 # PROCESS 2: Electric Boogaloo
