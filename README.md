@@ -19,10 +19,11 @@ Why ListenBrainz and not just another Youtube plalist? Because: https://listenbr
 - Used the vdrmota/twitter-scraper hat/tip to @vdrmota
 -- his repo of the tool: https://github.com/vdrmota/actor-twitter-scraper
 
-- Ran the tool (aka Actor) within apify
+- Ran the vdrmota tool (aka Actor) within apify
 -- 1st run: output was 50 data points of which many are text comments or t.co shortened links
 -- 2nd run: different parameters for script, produced same results as 1st run
--- 3rd run: more strict parameters set.... RUNNING NOW
+-- 3rd run: more strict parameters set.... got a similar result as previous runs, about 45-50 data points and all t.co shortened links
+-- 4th run: switching tool, trying to use: zuzka/twitter-url-scraperRuns within Apify... RUNNING
 
 
 # PROCESS 2: Electric Boogaloo
