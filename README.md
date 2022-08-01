@@ -1,14 +1,18 @@
 # Richards-Rich-Playlist
 A place for data and tools used to create a playlist from the links dropped in a Twitter post by Richard D Bartlett @rdbartlett
 
+
 ## Source of data
 Thread with many comments with Youtube and Spotify links, but some just being text:
+
 https://twitter.com/RichDecibels/status/1553673739795054592
+
 
 ## ListenBrainz Playlist
 https://listenbrainz.org/playlist/95431805-bdd3-4904-bffe-3506c1a09006/
 
 Why ListenBrainz and not just another Youtube plalist? [Because of these reasons](https://listenbrainz.org/about)
+
 
 ## Raw output of links
 
@@ -18,8 +22,8 @@ Why ListenBrainz and not just another Youtube plalist? [Because of these reasons
 
 
 
-# PROCESS [COMPLETED]
- - Registered for a free account with apify.com
+## Process 1: cloud-based webcrawling [COMPLETED]
+ - Registered for a free account with apify.com 
  - Ran the vdrmota tool (aka Actor) within apify
   * 1st run: output was 50 data points of which many are text comments or t.co shortened links
   * 2nd run: different parameters for script, produced same results as 1st run
@@ -31,10 +35,11 @@ Why ListenBrainz and not just another Youtube plalist? [Because of these reasons
   * END of Process - used to cross compare with Process 2 and get more text (non-url link) contributions.
 
 
-# PROCESS 2: Electric Boogaloo [COMPLETED]
+## Process 2: Electric Boogaloo [COMPLETED]
  - Whilst running the apify scappers above I also tried to export a raw HTML file from Twitter to grab the links out of it
  - Nitter, a privacy preserving frontend of Twitter came in useful as it does not do link shortening
  - Output produced is being parsed and will be added to repo as it's own file: 
+
 
 # Gratitude
 
