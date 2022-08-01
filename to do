@@ -1,6 +1,12 @@
 - apify.com free account
 -- attempt to use zuzka/twitter-url-scraper
+--- 
+
 -- attempt to use vdrmota/twitter-scraper
+--- first run output only the t.co shortened links and about 10 of them, missing lots of data
+--- chanaged crawling parameters
+--- attempted to use nitter.co link to scrape instead
+
 
 - compile results list
 - input into ListenBrainz playlist
