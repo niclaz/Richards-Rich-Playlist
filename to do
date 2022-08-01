@@ -1,0 +1,8 @@
+- apify.com free account
+-- attempt to use zuzka/twitter-url-scraper
+-- attempt to use vdrmota/twitter-scraper
+
+- compile results list
+- input into ListenBrainz playlist
+- output a raw list of urls for future integration
+- add list to repo
