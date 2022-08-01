@@ -7,10 +7,14 @@ https://twitter.com/RichDecibels/status/1553673739795054592
 
 ## ListenBrainz Playlist
 https://listenbrainz.org/playlist/95431805-bdd3-4904-bffe-3506c1a09006/
-Why ListenBrainz and not just another Youtube plalist? Because: https://listenbrainz.org/about 
+
+Why ListenBrainz and not just another Youtube plalist? [Because of these reasons](https://listenbrainz.org/about)
 
 ## Raw output of links
- <INSERT LINK>
+
+[list of youtube links](https://github.com/niclaz/Richards-Rich-Playlist/blob/main/youtube-links-parsed)
+
+[non youtube links and text from thread](https://github.com/niclaz/Richards-Rich-Playlist/blob/main/other-links-and-text)
 
 
 
@@ -35,7 +39,7 @@ Why ListenBrainz and not just another Youtube plalist? Because: https://listenbr
 # Gratitude
 
 Thanking / hat-tip to these devs and services used in this process:
-- @richardb for letting me play with his data and make the playlist
-- @vdrmota for the twitter-scraper 'Actor' within Apify[https://apify.com/vdrmota]
-- @zpelechova for the twitter-url-scraper 'Actor' within Apify[https://apify.com/zuzka
-- @alecsharpie for this Twitter url expander hack: requests.get(https://t.co<adfsd>).url
+- [@rdbartlett](https://github.com/rdbartlett) for letting me play with his data and make the playlist
+- [@vdrmota](https://github.com/vdrmota) for the twitter-scraper 'Actor' within [Apify](https://apify.com/vdrmota])
+- [@zpelechova](https://github.com/zpelechova) for the twitter-url-scraper 'Actor' within [Apify](https://apify.com/zuzka)
+- [@alecsharpie](https://github.com/alecsharpie) for this Twitter url expander hack: requests.get(https://t.co<adfsd>).url
