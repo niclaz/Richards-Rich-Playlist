@@ -20,14 +20,8 @@ Why ListenBrainz and not just another Youtube plalist? Because: https://listenbr
 -- his repo of the tool: https://github.com/vdrmota/actor-twitter-scraper
 
 - Ran the tool (actor) within apify
--- output ...
+-- output ... CURRENTLY RUNNING TOOL
 
 
 
 
-# DEV NOTES
-Alternative / free to view twitter front-ends:
-- nitter.net
-- nitter.ca
-- Python: https://www.tweepy.org/
- 
